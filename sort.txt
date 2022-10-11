@@ -1,0 +1,2 @@
+syntax : $sort filename.extension
+uses : it sorts the list of items
