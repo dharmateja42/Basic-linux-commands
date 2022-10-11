@@ -1,0 +1,2 @@
+command :  -->> ls      (list files)      
+uses: to see the list of files
