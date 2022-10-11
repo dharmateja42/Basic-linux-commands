@@ -1,0 +1,2 @@
+syntax : $cat filename.txt
+uses : this command is used to list of names 
